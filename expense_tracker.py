@@ -48,16 +48,6 @@ class ExpenseTracker:
         self.exit_button = tk.Button(self.master, text="Exit", command=self.exit_application)
         self.exit_button.pack()
     
-        # Create a label with an image and alternate text
-        photo = tk.PhotoImage(file="final/images.jpg")
-        label = tk.Label(root, image=photo, text="Picture of an Expense Tracker", compound="top")
-        label.pack()
-
-        # Create a label with an image and alternate text
-        photo = tk.PhotoImage(file="final/images2.png")
-        label = tk.Label(root, image=photo, text="Picture of an Expense Tracker", compound="top")
-        label.pack()
-    
     def add_expense(self):
         """Add an expense to the list"""
         amount = self.amount_entry.get()
