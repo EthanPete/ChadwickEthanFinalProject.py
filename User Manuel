@@ -1,0 +1,50 @@
+# Final Project
+GUI Expense Tracker
+Expense Tracker User's Manual
+Thank you for choosing the Expense Tracker application to help you manage your expenses. This user's manual will guide you through the features and functionality of the application, allowing you to track your expenses efficiently.
+
+Table of Contents
+Installation
+Getting Started
+Adding an Expense
+Viewing Expenses
+Exiting the Application
+
+1. Installation
+The Expense Tracker application requires a Python programming language. Please make sure you have software that can run Python installed on your system.
+
+2. Getting Started
+To start using the Expense Tracker application, follow these steps:
+
+Download the "final_project.py" file to your computer.
+Open with your chosen programming software.
+Click run
+The Expense Tracker window will appear on your screen, ready for you to track your expenses.
+
+3. Adding an Expense
+To add an expense using the Expense Tracker application, follow these steps:
+
+Enter the expense amount in the "Amount" entry box. The amount should be a valid number (e.g., 10.50).
+Provide a brief description of the expense in the "Description" entry box.
+Specify the category of the expense in the "Category" entry box.
+Click the "Add Expense" button to add the expense to the system.
+If the input is valid, you will see a success message indicating that the expense was added successfully.
+The entry boxes will be cleared, allowing you to enter new expenses.
+Note: If there is an error in the input, such as an invalid amount or missing description or category, an error message will be displayed, and the expense will not be added.
+
+4. Viewing Expenses
+To view all your expenses using the Expense Tracker application, follow these steps:
+
+Click the "View Expenses" button.
+A new window will appear, displaying a list of all your expenses.
+Each expense entry shows the amount, description, and category.
+You can scroll through the expenses if there are more than can fit in the window.
+
+5. Exiting the Application
+To exit the Expense Tracker application, follow these steps:
+
+Click the "Exit" button.
+The application window will close, and the program will terminate.
+
+
+Congratulations! You have successfully learned how to use the Expense Tracker application to manage your expenses. Feel free to track your expenses efficiently and gain better control over your finances.
